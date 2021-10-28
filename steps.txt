@@ -1,0 +1,6 @@
+To run this program.
+1. Open in Python IDLE.
+2. At the very bottom, change "Input1.txt" and "Output1.txt" to the files you want 
+   to read/write into.
+3. Run the program.
+4. Repeat Steps 2-3.
